@@ -1,0 +1,2273 @@
+[
+  {
+    "investigation_id": "873b16a3-a8e7-4172-bc7c-ad50d2d122f5",
+    "label": "Honda Stream",
+    "params": {
+      "plate": "3324LG",
+      "vehicle_type": "car",
+      "colour": "black",
+      "last_seen_at": "2026-05-13T12:25",
+      "last_known_location": {
+        "lat": 18.01865038030965,
+        "lng": -76.74207687377931
+      },
+      "label": "Honda Stream"
+    },
+    "result": {
+      "vehicle_id": "5745b159-d249-482e-b3e6-e97469a1b833",
+      "plate": "3324LG",
+      "plate_confirmed": true,
+      "vehicle_type": "car",
+      "colour_label": "black",
+      "colour_rgb": [
+        25,
+        26,
+        42
+      ],
+      "sightings": [
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776826.635456,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776826.660344,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776826.761433,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776826.860671,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776826.959787,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776827.060519,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776827.161917,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776827.260068,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776827.360287,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776827.460663,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776827.560953,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776827.662997,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776827.761476,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776827.861845,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776827.960975,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776828.060114,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776828.160999,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776828.260207,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776828.360458,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776828.459716,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776828.61115,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776828.861184,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776829.111329,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776829.361835,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776829.611247,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776829.86123,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776830.111029,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776830.360829,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776830.610709,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776830.861106,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776831.110598,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776831.360729,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776831.611657,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776831.861175,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776832.115193,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776832.360491,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776832.611835,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776832.866568,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776833.112448,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776833.361015,
+          "confidence": 0.7685478329658508,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776833.562641,
+          "confidence": 0.9224513173103333,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776833.66081,
+          "confidence": 0.9414189457893372,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776833.762599,
+          "confidence": 0.9122851490974426,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776833.861303,
+          "confidence": 0.9228864312171936,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776833.960641,
+          "confidence": 0.9271917343139648,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776834.060301,
+          "confidence": 0.8846712112426758,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776834.16,
+          "confidence": 0.8908067345619202,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776834.261864,
+          "confidence": 0.921875536441803,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776834.360525,
+          "confidence": 0.9293956160545349,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776834.461813,
+          "confidence": 0.913093090057373,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776834.560902,
+          "confidence": 0.9033588767051697,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776834.658451,
+          "confidence": 0.888808012008667,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776834.759329,
+          "confidence": 0.8881738185882568,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776834.862017,
+          "confidence": 0.8899429440498352,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776834.958761,
+          "confidence": 0.9051985144615173,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776835.058274,
+          "confidence": 0.9266236424446106,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776835.160091,
+          "confidence": 0.9449429512023926,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776835.262476,
+          "confidence": 0.9692884087562561,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776835.359413,
+          "confidence": 0.9659647941589355,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776835.462165,
+          "confidence": 0.9705954194068909,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776835.559668,
+          "confidence": 0.9652798175811768,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776835.661017,
+          "confidence": 0.9765855669975281,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776835.758875,
+          "confidence": 0.9724488854408264,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776835.864983,
+          "confidence": 0.9736869931221008,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776835.962169,
+          "confidence": 0.9707236289978027,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776836.075406,
+          "confidence": 0.9672098755836487,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776836.15987,
+          "confidence": 0.9572200775146484,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776836.26235,
+          "confidence": 0.9601067900657654,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776836.35989,
+          "confidence": 0.9640061259269714,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776836.624597,
+          "confidence": 0.9782034754753113,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776836.963814,
+          "confidence": 0.9800847172737122,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776837.802811,
+          "confidence": 0.9744991660118103,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776838.02569,
+          "confidence": 0.9615573287010193,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776838.065886,
+          "confidence": 0.9801478981971741,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_02",
+          "label": "Papine Four Way",
+          "lat": 18.0154,
+          "lng": -76.7431,
+          "timestamp": 1778776838.086595,
+          "confidence": 0.9794738292694092,
+          "inferred": false
+        },
+        {
+          "camera_id": null,
+          "label": null,
+          "lat": null,
+          "lng": null,
+          "timestamp": null,
+          "confidence": null,
+          "inferred": true,
+          "reason": "travel_time_gap",
+          "gap_seconds": 648.9
+        },
+        {
+          "camera_id": "CAM_07",
+          "label": "Liguanea",
+          "lat": 18.0203,
+          "lng": -76.7682,
+          "timestamp": 1778777731.074398,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_07",
+          "label": "Liguanea",
+          "lat": 18.0203,
+          "lng": -76.7682,
+          "timestamp": 1778777731.321205,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_07",
+          "label": "Liguanea",
+          "lat": 18.0203,
+          "lng": -76.7682,
+          "timestamp": 1778777731.57071,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_07",
+          "label": "Liguanea",
+          "lat": 18.0203,
+          "lng": -76.7682,
+          "timestamp": 1778777731.821917,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_07",
+          "label": "Liguanea",
+          "lat": 18.0203,
+          "lng": -76.7682,
+          "timestamp": 1778777732.072439,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_07",
+          "label": "Liguanea",
+          "lat": 18.0203,
+          "lng": -76.7682,
+          "timestamp": 1778777732.323939,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_07",
+          "label": "Liguanea",
+          "lat": 18.0203,
+          "lng": -76.7682,
+          "timestamp": 1778777732.571927,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_07",
+          "label": "Liguanea",
+          "lat": 18.0203,
+          "lng": -76.7682,
+          "timestamp": 1778777732.821737,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_07",
+          "label": "Liguanea",
+          "lat": 18.0203,
+          "lng": -76.7682,
+          "timestamp": 1778777733.074308,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_07",
+          "label": "Liguanea",
+          "lat": 18.0203,
+          "lng": -76.7682,
+          "timestamp": 1778777733.320333,
+          "confidence": 0.7845267653465271,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_07",
+          "label": "Liguanea",
+          "lat": 18.0203,
+          "lng": -76.7682,
+          "timestamp": 1778777733.540296,
+          "confidence": 0.9019765853881836,
+          "inferred": false
+        },
+        {
+          "camera_id": null,
+          "label": null,
+          "lat": null,
+          "lng": null,
+          "timestamp": null,
+          "confidence": null,
+          "inferred": true,
+          "reason": "travel_time_gap",
+          "gap_seconds": 69.2
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777851.23577,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777851.360336,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777851.60974,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777851.856673,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777852.107254,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777852.357477,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777852.608709,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777852.85678,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777853.107541,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777853.361613,
+          "confidence": 0.7685478329658508,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777853.558475,
+          "confidence": 0.9224513173103333,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777853.657885,
+          "confidence": 0.9414189457893372,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777853.759164,
+          "confidence": 0.9122851490974426,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777853.856461,
+          "confidence": 0.9228864312171936,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777853.956487,
+          "confidence": 0.9271917343139648,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777854.056388,
+          "confidence": 0.8846712112426758,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777854.15838,
+          "confidence": 0.8908067345619202,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777854.260808,
+          "confidence": 0.921875536441803,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777854.358019,
+          "confidence": 0.9293956160545349,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777854.458965,
+          "confidence": 0.913093090057373,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777854.556653,
+          "confidence": 0.9033588767051697,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777854.656091,
+          "confidence": 0.888808012008667,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777854.756476,
+          "confidence": 0.8881738185882568,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777854.855665,
+          "confidence": 0.8899429440498352,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777854.956085,
+          "confidence": 0.9051985144615173,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777855.05568,
+          "confidence": 0.9266236424446106,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777855.155586,
+          "confidence": 0.9449429512023926,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777855.257269,
+          "confidence": 0.9692884087562561,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777855.356442,
+          "confidence": 0.9659647941589355,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777855.459057,
+          "confidence": 0.9705954194068909,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777855.555436,
+          "confidence": 0.9652798175811768,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777855.654778,
+          "confidence": 0.9765855669975281,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777855.754736,
+          "confidence": 0.9724488854408264,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777855.856608,
+          "confidence": 0.9736869931221008,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777855.95754,
+          "confidence": 0.9707236289978027,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777856.06895,
+          "confidence": 0.9672098755836487,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777856.156195,
+          "confidence": 0.9572200775146484,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777856.260803,
+          "confidence": 0.9601067900657654,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777856.355576,
+          "confidence": 0.9640061259269714,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777856.62378,
+          "confidence": 0.9782034754753113,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777856.799922,
+          "confidence": 0.9800847172737122,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777857.669891,
+          "confidence": 0.9744991660118103,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777858.05126,
+          "confidence": 0.9615573287010193,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "timestamp": 1778777858.088029,
+          "confidence": 0.9801478981971741,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_15",
+          "label": "Old Hope Road x Mountain View Avenue",
+          "lat": 18.0096,
+          "lng": -76.7718,
+          "timestamp": 1778777917.802758,
+          "confidence": 0.9810860753059387,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_15",
+          "label": "Old Hope Road x Mountain View Avenue",
+          "lat": 18.0096,
+          "lng": -76.7718,
+          "timestamp": 1778777917.92572,
+          "confidence": 0.9812504649162292,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_15",
+          "label": "Old Hope Road x Mountain View Avenue",
+          "lat": 18.0096,
+          "lng": -76.7718,
+          "timestamp": 1778777918.12462,
+          "confidence": 0.9806144833564758,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_15",
+          "label": "Old Hope Road x Mountain View Avenue",
+          "lat": 18.0096,
+          "lng": -76.7718,
+          "timestamp": 1778777918.134139,
+          "confidence": 0.978938639163971,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_15",
+          "label": "Old Hope Road x Mountain View Avenue",
+          "lat": 18.0096,
+          "lng": -76.7718,
+          "timestamp": 1778777918.170726,
+          "confidence": 0.9879746437072754,
+          "inferred": false
+        }
+      ],
+      "predicted_next": [
+        {
+          "camera_id": "CAM_10",
+          "label": "Old Hope Road/Retreat Avenue",
+          "lat": 18.0124,
+          "lng": -76.7711,
+          "probability": 0.445
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "probability": 0.261
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "probability": 0.11
+        },
+        {
+          "camera_id": "CAM_09",
+          "label": "Wellington Drive",
+          "lat": 18.0171,
+          "lng": -76.7676,
+          "probability": 0.042
+        },
+        {
+          "camera_id": "CAM_07",
+          "label": "Liguanea",
+          "lat": 18.0203,
+          "lng": -76.7682,
+          "probability": 0.032
+        }
+      ],
+      "last_known_camera": "CAM_15",
+      "last_known_timestamp": 1778777918.170726,
+      "staleness_warning": true,
+      "confidence": {
+        "overall": 0.959,
+        "band": "high",
+        "signals": {
+          "plate": {
+            "score": 1.0,
+            "weight": 0.4,
+            "note": "Confirmed plate match"
+          },
+          "sightings": {
+            "score": 1.0,
+            "weight": 0.25,
+            "note": "135 confirmed sightings"
+          },
+          "cameras": {
+            "score": 1.0,
+            "weight": 0.2,
+            "note": "4 cameras"
+          },
+          "recency": {
+            "score": 0.73,
+            "weight": 0.15,
+            "note": "Last seen 27m ago"
+          }
+        }
+      },
+      "stolen_report": null
+    },
+    "status": "active",
+    "notes": "",
+    "pinned": false,
+    "created_at": 1778779555.072896,
+    "updated_at": 1778779555.072897,
+    "last_checked_at": 1778779555.0728981,
+    "has_update": false,
+    "closed": false
+  },
+  {
+    "investigation_id": "c280f56c-5b4f-43a2-8427-3011265476de",
+    "label": "Honda Shuttle",
+    "params": {
+      "plate": "5597KJ",
+      "vehicle_type": "car",
+      "colour": null,
+      "last_seen_at": "2026-05-13T12:27",
+      "last_known_location": {
+        "lat": 18.01244706006744,
+        "lng": -76.74237728118898
+      },
+      "label": "Honda Shuttle"
+    },
+    "result": null,
+    "status": "pending",
+    "notes": "",
+    "pinned": false,
+    "created_at": 1778779649.363457,
+    "updated_at": 1778779649.3634582,
+    "last_checked_at": 1778779649.36346,
+    "has_update": false,
+    "closed": false
+  },
+  {
+    "investigation_id": "66d31e8d-254c-4284-95d6-25946c92dc43",
+    "label": "Honda Fit",
+    "params": {
+      "plate": "9442LU",
+      "vehicle_type": "car",
+      "colour": "grey",
+      "last_seen_at": "2026-05-13T12:27",
+      "last_known_location": {
+        "lat": 18.011059445385005,
+        "lng": -76.75366401672365
+      },
+      "label": "Honda Fit"
+    },
+    "result": null,
+    "status": "pending",
+    "notes": "",
+    "pinned": false,
+    "created_at": 1778779686.07867,
+    "updated_at": 1778779686.0786712,
+    "last_checked_at": 1778779686.078672,
+    "has_update": false,
+    "closed": false
+  },
+  {
+    "investigation_id": "a5104107-6d92-4cac-be67-0abe340d35b8",
+    "label": "Honda Shuttle",
+    "params": {
+      "plate": "0537KP",
+      "vehicle_type": "car",
+      "colour": null,
+      "last_seen_at": "2026-05-13T12:28",
+      "last_known_location": {
+        "lat": 18.014487650043872,
+        "lng": -76.76327705383302
+      },
+      "label": "Honda Shuttle"
+    },
+    "result": {
+      "vehicle_id": "83b7241b-4d19-4f63-ab5a-b9a7c24106ef",
+      "plate": "0537KP",
+      "plate_confirmed": true,
+      "vehicle_type": "car",
+      "colour_label": "grey",
+      "colour_rgb": [
+        140,
+        151,
+        155
+      ],
+      "sightings": [
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777067.996926,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777068.195809,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777068.39633,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777068.598401,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777068.795327,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777068.996512,
+          "confidence": 0.6354349851608276,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777069.195703,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777069.399892,
+          "confidence": 0.9755909442901611,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777069.598134,
+          "confidence": 0.9689173698425293,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777069.794378,
+          "confidence": 0.9428860545158386,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777069.99581,
+          "confidence": 0.9474733471870422,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777070.197264,
+          "confidence": 0.9098787903785706,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777070.361297,
+          "confidence": 0.9811003804206848,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777070.460556,
+          "confidence": 0.9447291493415833,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777070.561725,
+          "confidence": 0.9048636555671692,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777070.661374,
+          "confidence": 0.9533454775810242,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777070.762063,
+          "confidence": 0.9881689548492432,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777070.863024,
+          "confidence": 0.9851922988891602,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777070.961062,
+          "confidence": 0.9876360893249512,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777071.06086,
+          "confidence": 0.9818973541259766,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777071.16085,
+          "confidence": 0.9746370315551758,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777071.261379,
+          "confidence": 0.9813082814216614,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777071.36101,
+          "confidence": 0.9858419895172119,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777071.461054,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777071.561518,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777071.660837,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777071.759558,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777071.86055,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777071.959042,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777073.564155,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777073.659977,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777073.763763,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777073.862055,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777073.959074,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777074.059926,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777074.159875,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_04",
+          "label": "Mona Road/UWI Front gate",
+          "lat": 18.0029,
+          "lng": -76.75,
+          "timestamp": 1778777074.260103,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": null,
+          "label": null,
+          "lat": null,
+          "lng": null,
+          "timestamp": null,
+          "confidence": null,
+          "inferred": true,
+          "reason": "travel_time_gap",
+          "gap_seconds": 517.2
+        },
+        {
+          "camera_id": "CAM_11",
+          "label": "Hope Road/Liguanea Avenue",
+          "lat": 18.0208,
+          "lng": -76.7701,
+          "timestamp": 1778777853.844256,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_11",
+          "label": "Hope Road/Liguanea Avenue",
+          "lat": 18.0208,
+          "lng": -76.7701,
+          "timestamp": 1778777854.045963,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_11",
+          "label": "Hope Road/Liguanea Avenue",
+          "lat": 18.0208,
+          "lng": -76.7701,
+          "timestamp": 1778777854.244921,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_11",
+          "label": "Hope Road/Liguanea Avenue",
+          "lat": 18.0208,
+          "lng": -76.7701,
+          "timestamp": 1778777854.443179,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_11",
+          "label": "Hope Road/Liguanea Avenue",
+          "lat": 18.0208,
+          "lng": -76.7701,
+          "timestamp": 1778777854.644225,
+          "confidence": 0.0,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_11",
+          "label": "Hope Road/Liguanea Avenue",
+          "lat": 18.0208,
+          "lng": -76.7701,
+          "timestamp": 1778777854.844956,
+          "confidence": 0.986270010471344,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_11",
+          "label": "Hope Road/Liguanea Avenue",
+          "lat": 18.0208,
+          "lng": -76.7701,
+          "timestamp": 1778777855.042845,
+          "confidence": 0.976291835308075,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_11",
+          "label": "Hope Road/Liguanea Avenue",
+          "lat": 18.0208,
+          "lng": -76.7701,
+          "timestamp": 1778777855.244236,
+          "confidence": 0.9786022305488586,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_11",
+          "label": "Hope Road/Liguanea Avenue",
+          "lat": 18.0208,
+          "lng": -76.7701,
+          "timestamp": 1778777855.446644,
+          "confidence": 0.9855813980102539,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_11",
+          "label": "Hope Road/Liguanea Avenue",
+          "lat": 18.0208,
+          "lng": -76.7701,
+          "timestamp": 1778777855.643574,
+          "confidence": 0.9234725832939148,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_11",
+          "label": "Hope Road/Liguanea Avenue",
+          "lat": 18.0208,
+          "lng": -76.7701,
+          "timestamp": 1778777855.809744,
+          "confidence": 0.9671320915222168,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_11",
+          "label": "Hope Road/Liguanea Avenue",
+          "lat": 18.0208,
+          "lng": -76.7701,
+          "timestamp": 1778777855.912071,
+          "confidence": 0.9709129333496094,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_11",
+          "label": "Hope Road/Liguanea Avenue",
+          "lat": 18.0208,
+          "lng": -76.7701,
+          "timestamp": 1778777856.010965,
+          "confidence": 0.9702250361442566,
+          "inferred": false
+        },
+        {
+          "camera_id": null,
+          "label": null,
+          "lat": null,
+          "lng": null,
+          "timestamp": null,
+          "confidence": null,
+          "inferred": true,
+          "reason": "travel_time_gap",
+          "gap_seconds": 130.6
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778094.87633,
+          "confidence": 0.9767772555351257,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778095.078725,
+          "confidence": 0.980379581451416,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778095.276251,
+          "confidence": 0.9774332642555237,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778095.478232,
+          "confidence": 0.9833789467811584,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778095.677619,
+          "confidence": 0.9288115501403809,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778095.828699,
+          "confidence": 0.9312997460365295,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778095.926449,
+          "confidence": 0.929278552532196,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778096.031074,
+          "confidence": 0.977529764175415,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778096.131944,
+          "confidence": 0.9785849452018738,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778096.23134,
+          "confidence": 0.9801352024078369,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778096.326093,
+          "confidence": 0.9830553531646729,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778096.427609,
+          "confidence": 0.9846848845481873,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778096.641397,
+          "confidence": 0.9799180626869202,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778097.139242,
+          "confidence": 0.9881255626678467,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778097.800365,
+          "confidence": 0.9721422791481018,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778098.007791,
+          "confidence": 0.9820987582206726,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778098.035575,
+          "confidence": 0.9447031021118164,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778098.18213,
+          "confidence": 0.9845003485679626,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778098.213478,
+          "confidence": 0.9807291626930237,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778098.607591,
+          "confidence": 0.9813247323036194,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778098.618085,
+          "confidence": 0.9818506240844727,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778098.781363,
+          "confidence": 0.9839375615119934,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "timestamp": 1778778099.042811,
+          "confidence": 0.9760565161705017,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_13",
+          "label": "Hope Road x East Kings House Road",
+          "lat": 18.0186,
+          "lng": -76.7815,
+          "timestamp": 1778778275.856286,
+          "confidence": 0.9327952265739441,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_13",
+          "label": "Hope Road x East Kings House Road",
+          "lat": 18.0186,
+          "lng": -76.7815,
+          "timestamp": 1778778275.956751,
+          "confidence": 0.9772109985351562,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_13",
+          "label": "Hope Road x East Kings House Road",
+          "lat": 18.0186,
+          "lng": -76.7815,
+          "timestamp": 1778778276.069818,
+          "confidence": 0.97855544090271,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_13",
+          "label": "Hope Road x East Kings House Road",
+          "lat": 18.0186,
+          "lng": -76.7815,
+          "timestamp": 1778778276.156967,
+          "confidence": 0.9795406460762024,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_13",
+          "label": "Hope Road x East Kings House Road",
+          "lat": 18.0186,
+          "lng": -76.7815,
+          "timestamp": 1778778276.25577,
+          "confidence": 0.9847965836524963,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_13",
+          "label": "Hope Road x East Kings House Road",
+          "lat": 18.0186,
+          "lng": -76.7815,
+          "timestamp": 1778778276.355953,
+          "confidence": 0.9840582013130188,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_13",
+          "label": "Hope Road x East Kings House Road",
+          "lat": 18.0186,
+          "lng": -76.7815,
+          "timestamp": 1778778276.623384,
+          "confidence": 0.9735422134399414,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_13",
+          "label": "Hope Road x East Kings House Road",
+          "lat": 18.0186,
+          "lng": -76.7815,
+          "timestamp": 1778778277.139641,
+          "confidence": 0.9712600111961365,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_13",
+          "label": "Hope Road x East Kings House Road",
+          "lat": 18.0186,
+          "lng": -76.7815,
+          "timestamp": 1778778277.648376,
+          "confidence": 0.9810885787010193,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_13",
+          "label": "Hope Road x East Kings House Road",
+          "lat": 18.0186,
+          "lng": -76.7815,
+          "timestamp": 1778778277.996196,
+          "confidence": 0.989475429058075,
+          "inferred": false
+        },
+        {
+          "camera_id": "CAM_13",
+          "label": "Hope Road x East Kings House Road",
+          "lat": 18.0186,
+          "lng": -76.7815,
+          "timestamp": 1778778278.040699,
+          "confidence": 0.9808028340339661,
+          "inferred": false
+        }
+      ],
+      "predicted_next": [
+        {
+          "camera_id": "CAM_01",
+          "label": "Devon House Stop Light",
+          "lat": 18.0132,
+          "lng": -76.7911,
+          "probability": 0.631
+        },
+        {
+          "camera_id": "CAM_08",
+          "label": "Commissioners Office",
+          "lat": 18.0162,
+          "lng": -76.7709,
+          "probability": 0.05
+        },
+        {
+          "camera_id": "CAM_11",
+          "label": "Hope Road/Liguanea Avenue",
+          "lat": 18.0208,
+          "lng": -76.7701,
+          "probability": 0.047
+        },
+        {
+          "camera_id": "CAM_10",
+          "label": "Old Hope Road/Retreat Avenue",
+          "lat": 18.0124,
+          "lng": -76.7711,
+          "probability": 0.045
+        },
+        {
+          "camera_id": "CAM_12",
+          "label": "East Kings House Road",
+          "lat": 18.0296,
+          "lng": -76.7767,
+          "probability": 0.044
+        }
+      ],
+      "last_known_camera": "CAM_13",
+      "last_known_timestamp": 1778778278.040699,
+      "staleness_warning": true,
+      "confidence": {
+        "overall": 0.942,
+        "band": "high",
+        "signals": {
+          "plate": {
+            "score": 1.0,
+            "weight": 0.4,
+            "note": "Confirmed plate match"
+          },
+          "sightings": {
+            "score": 1.0,
+            "weight": 0.25,
+            "note": "84 confirmed sightings"
+          },
+          "cameras": {
+            "score": 1.0,
+            "weight": 0.2,
+            "note": "4 cameras"
+          },
+          "recency": {
+            "score": 0.616,
+            "weight": 0.15,
+            "note": "Last seen 41m ago"
+          }
+        }
+      },
+      "stolen_report": null
+    },
+    "status": "active",
+    "notes": "",
+    "pinned": false,
+    "created_at": 1778780318.01904,
+    "updated_at": 1778780799.6186612,
+    "last_checked_at": 1778781257.29444,
+    "has_update": false,
+    "closed": false
+  }
+]

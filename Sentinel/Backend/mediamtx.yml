@@ -1,0 +1,5 @@
+# Minimal mediamtx config for Sentinel RTSP testing.
+# Allows ffmpeg to publish to any path without pre-configuration.
+paths:
+  all_others:
+    source: publisher

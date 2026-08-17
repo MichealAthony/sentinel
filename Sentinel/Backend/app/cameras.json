@@ -1,0 +1,167 @@
+[
+  {
+    "camera_id": "CAM_01",
+    "stream_url": "rtsp://localhost:8554/cam_01",
+    "base_priority": 2,
+    "timestamp_offset_seconds": 0,
+    "location": {
+      "label": "Devon House Stop Light",
+      "lat": 18.0132,
+      "lng": -76.7911
+    }
+  },
+  {
+    "camera_id": "CAM_02",
+    "stream_url": "rtsp://localhost:8554/cam_02",
+    "base_priority": 15,
+    "timestamp_offset_seconds": -1800,
+    "location": {
+      "label": "Papine Four Way",
+      "lat": 18.0154,
+      "lng": -76.7431
+    }
+  },
+  {
+    "camera_id": "CAM_03",
+    "stream_url": "rtsp://localhost:8554/cam_03",
+    "base_priority": 4,
+    "timestamp_offset_seconds": -1500,
+    "location": {
+      "label": "Old Hope Road/Garden Blvd intersection",
+      "lat": 18.0169,
+      "lng": -76.7513
+    }
+  },
+  {
+    "camera_id": "CAM_04",
+    "stream_url": "rtsp://localhost:8554/cam_04",
+    "base_priority": 13,
+    "timestamp_offset_seconds": -1560,
+    "location": {
+      "label": "Mona Road/UWI Front gate",
+      "lat": 18.0029,
+      "lng": -76.7500
+    }
+  },
+  {
+    "camera_id": "CAM_05",
+    "stream_url": "rtsp://localhost:8554/cam_05",
+    "base_priority": 6,
+    "timestamp_offset_seconds": -1260,
+    "location": {
+      "label": "Jamaica College",
+      "lat": 18.0182,
+      "lng": -76.7580
+    }
+  },
+  {
+    "camera_id": "CAM_06",
+    "stream_url": "rtsp://localhost:8554/cam_06",
+    "base_priority": 1,
+    "timestamp_offset_seconds": -600,
+    "location": {
+      "label": "Barbican",
+      "lat": 18.0308,
+      "lng": -76.7755
+    }
+  },
+  {
+    "camera_id": "CAM_07",
+    "stream_url": "rtsp://localhost:8554/cam_07",
+    "base_priority": 11,
+    "timestamp_offset_seconds": -900,
+    "location": {
+      "label": "Liguanea",
+      "lat": 18.0203,
+      "lng": -76.7682
+    }
+  },
+  {
+    "camera_id": "CAM_08",
+    "stream_url": "rtsp://localhost:8554/cam_08",
+    "base_priority": 14,
+    "timestamp_offset_seconds": -780,
+    "location": {
+      "label": "Commissioners Office",
+      "lat": 18.0162,
+      "lng": -76.7709
+    }
+  },
+  {
+    "camera_id": "CAM_09",
+    "stream_url": "rtsp://localhost:8554/cam_09",
+    "base_priority": 5,
+    "timestamp_offset_seconds": -900,
+    "location": {
+      "label": "Wellington Drive",
+      "lat": 18.0171,
+      "lng": -76.7676
+    }
+  },
+  {
+    "camera_id": "CAM_10",
+    "stream_url": "rtsp://localhost:8554/cam_10",
+    "base_priority": 3,
+    "timestamp_offset_seconds": -720,
+    "location": {
+      "label": "Old Hope Road/Retreat Avenue",
+      "lat": 18.0124,
+      "lng": -76.7711
+    }
+  },
+  {
+    "camera_id": "CAM_11",
+    "stream_url": "rtsp://localhost:8554/cam_11",
+    "base_priority": 9,
+    "timestamp_offset_seconds": -780,
+    "location": {
+      "label": "Hope Road/Liguanea Avenue",
+      "lat": 18.0208,
+      "lng": -76.7701
+    }
+  },
+  {
+    "camera_id": "CAM_12",
+    "stream_url": "rtsp://localhost:8554/cam_12",
+    "base_priority": 12,
+    "timestamp_offset_seconds": -540,
+    "location": {
+      "label": "East Kings House Road",
+      "lat": 18.0296,
+      "lng": -76.7767
+    }
+  },
+  {
+    "camera_id": "CAM_13",
+    "stream_url": "rtsp://localhost:8554/cam_13",
+    "base_priority": 7,
+    "timestamp_offset_seconds": -360,
+    "location": {
+      "label": "Hope Road x East Kings House Road",
+      "lat": 18.0186,
+      "lng": -76.7815
+    }
+  },
+  {
+    "camera_id": "CAM_14",
+    "stream_url": "rtsp://localhost:8554/cam_14",
+    "base_priority": 10,
+    "timestamp_offset_seconds": -1200,
+    "location": {
+      "label": "Mona Road x Wellington Drive",
+      "lat": 18.0157,
+      "lng": -76.7585
+    }
+  },
+  {
+    "camera_id": "CAM_15",
+    "stream_url": "rtsp://localhost:8554/cam_15",
+    "base_priority": 8,
+    "timestamp_offset_seconds": -720,
+    "location": {
+      "label": "Old Hope Road x Mountain View Avenue",
+      "lat": 18.0096,
+      "lng": -76.7718
+    }
+  }
+]

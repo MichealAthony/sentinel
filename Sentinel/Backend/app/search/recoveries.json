@@ -1,0 +1,54 @@
+[
+  {
+    "recovery_id": "f1a243c2-89a2-4601-a3c6-96ab7cf64276",
+    "investigation_id": "9e2a917f-f693-403f-bd72-dc3f9c710a0d",
+    "label": "Honda Stream ",
+    "lat": 18.01228381184841,
+    "lng": -76.76980018615724,
+    "notes": "",
+    "plate": "3324LG",
+    "vehicle_type": "car",
+    "colour_label": "black",
+    "reported_at": 1778607841.782,
+    "created_at": 1778608196.9340239
+  },
+  {
+    "recovery_id": "11180ead-acef-4a6d-9317-04726f169052",
+    "investigation_id": "9e2a917f-f693-403f-bd72-dc3f9c710a0d",
+    "label": "Honda Stream ",
+    "lat": 18.01220218768218,
+    "lng": -76.76975727081299,
+    "notes": "",
+    "plate": "3324LG",
+    "vehicle_type": "car",
+    "colour_label": "black",
+    "reported_at": 1778607841.782,
+    "created_at": 1778608196.951146
+  },
+  {
+    "recovery_id": "9ab32d3b-9009-4913-9cfe-22831aa542a3",
+    "investigation_id": "9e2a917f-f693-403f-bd72-dc3f9c710a0d",
+    "label": "Honda Stream ",
+    "lat": 18.01224299977002,
+    "lng": -76.76958560943605,
+    "notes": "",
+    "plate": "3324LG",
+    "vehicle_type": "car",
+    "colour_label": "black",
+    "reported_at": 1778607841.782,
+    "created_at": 1778608197.1698408
+  },
+  {
+    "recovery_id": "c02c28a6-f530-427b-aeba-9e8916cdc052",
+    "investigation_id": "9e2a917f-f693-403f-bd72-dc3f9c710a0d",
+    "label": "Honda Stream ",
+    "lat": 18.012120563478145,
+    "lng": -76.77001476287843,
+    "notes": "",
+    "plate": "3324LG",
+    "vehicle_type": "car",
+    "colour_label": "black",
+    "reported_at": 1778607841.782,
+    "created_at": 1778608197.2062268
+  }
+]
